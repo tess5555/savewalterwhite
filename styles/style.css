@@ -1,0 +1,54 @@
+body {
+    background-image: url("./ASSETS/background.png");
+  }
+  div.body {
+    width: 70%;
+    padding-left: 15%;
+  }
+  
+  h1 {
+    color: white;
+    height: ;
+    font-family: times, Helvetica, sans-serif;
+  }
+  
+  h2 {
+    font-family: comic sans, comic sans ms, cursive;
+  }
+  h2.h2_yellow1 {
+    color: #fff54f;
+  }
+  h2.h2_yellow2 {
+    color: #ffe107;
+  }
+  
+  p {
+    font-family: comic sans, comic sans ms, cursive;
+    text-align: left;
+  }
+  p.p_white {
+    color: white;
+  }
+  p.p_yellow1 {
+    color: #fff54f;
+  }
+  p.p_yellow2 {
+    color: #ffe107;
+  }
+  
+  li.phot2 {
+    grid-template-columns: 1fr 1fr 1fr;
+    display: grid;
+  }
+  li.phot3 {
+    grid-template-columns: 1fr 1fr;
+    display: grid;
+  }
+  
+  .btt1:hover {
+    border: 3px solid rgba(60, 165, 18, 0.589);
+  }
+  ul li {
+    list-style: none;
+  }
+  
